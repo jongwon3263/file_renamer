@@ -1,0 +1,3 @@
+([('file_renamer_gui',
+   '/Users/gwonjong-won/Documents/0./Projects/djiFileRenamer/dist/file_renamer_gui',
+   'EXECUTABLE')],)
